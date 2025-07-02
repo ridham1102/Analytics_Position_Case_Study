@@ -1,7 +1,7 @@
 # Analytics_Position_Case_Study
 **Loyalty Points System Evaluation and Redesign Report**
 
---
+---
 
 ### **1. Introduction**
 
