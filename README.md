@@ -1,11 +1,7 @@
 # Analytics_Position_Case_Study
 **Loyalty Points System Evaluation and Redesign Report**
 
-**Submitted by:** Ridham
-**Context:** Analytics Case Study for Real-Money Gaming Platform
-**Goal:** Evaluate and improve the current loyalty point system to ensure fairness, engagement, and alignment with business goals.
-
----
+--
 
 ### **1. Introduction**
 
